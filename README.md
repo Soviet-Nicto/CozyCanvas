@@ -100,5 +100,4 @@ Hatsune Miku - Crypton Future Media
 Various anime series and their respective studios
 
 <p align="center">
-  Made with 💜 for the aesthetic community &nbsp;|&nbsp; <a href="https://github.com/Soviet-Nicto">Soviet-Nicto</a>
-</p>
+  Made with 💖 for the aesthetic community
