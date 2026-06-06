@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/license-MIT-f8c8d4?style=for-the-badge&labelColor=1a1a2e" alt="License"/>
 </p>
 
-# CozyCanvas
-🎨 A collection of Aesthetic Wallpapers gathered over time - Lofi, Anime, Fantasy, Scenery &amp; More...! 🌟
-
 >
 
 🌸 Preview Gallery
