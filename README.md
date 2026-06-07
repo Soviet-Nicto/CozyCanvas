@@ -1,53 +1,93 @@
 <!-- ==================== BANNER SECTION ==================== -->
 
 <div align="center">
-
-<!-- Upload your banner image to the repo first, then this will show -->
-<!-- <img src="cozycavas-banner.png" width="100%" alt="CozyCanvas Banner"/> -->
+  <img src="cozycavas-banner.png" width="100%" alt="CozyCanvas - Wallpaper Collection Banner">
+</div>
 
 <!-- ==================== HEADER SECTION ==================== -->
 
-<h1> CozyCanvas</h1>
+<h1 align="center">CozyCanvas</h1>
 
-<p><em> 🎨 A collection of aesthetic wallpapers - Lofi, Anime, Fantasy, Scenery & more.<br>Free for everyone to enjoy 🌟 </em></p>
+<p align="center">
+  🎨 A curated collection of aesthetic wallpapers gathered over time - Anime, Fantasy, Scenery & more. Free for everyone to enjoy 🌟
+</p>
 
 <!-- ==================== PREVIEW GALLERY ==================== -->
 
 ## 🌸 Preview Gallery
 
-| 🎵 Lofi & Cozy | 🌿 Anime Scenery | ⚔️ Fantasy & Dark |
-|:-:|:-:|:-:|
-| ![Lofi](Lofi%20%26%20Cozy/coffee-shop.png) | ![Kyoto](Anime%20Scenery/Spring_Day_in_Kyoto_-_Pao_Yong.jpg) | ![Dragon](Fantasy%20%26%20Dark/dragon.jpg) |
-| ![Lofi TAO](Lofi%20%26%20Cozy/Lofi_Anime_-_TAO.webp) | ![Silhouette](Anime%20Scenery/Silhouette__sky__planets__view_-_Uomi.jpg) | ![Mage](Fantasy%20%26%20Dark/mage.jpg) |
+<table>
+  <thead>
+    <tr>
+      <th align="center">🎌 Anime</th>
+      <th align="center">🐉 Fantasy & Dark</th>
+      <th align="center">🌊 Landscapes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <table>
+          <tr>
+            <td><img src="Anime/coffee-shop.png" width="150" alt="Anime 1"></td>
+            <td><img src="Anime/Lofi_Anime_-_TAO.webp" width="150" alt="Anime 2"></td>
+          </tr>
+          <tr>
+            <td><img src="Anime/Spring_Day_in_Kyoto_-_Pao_Yong.jpg" width="150" alt="Anime 3"></td>
+            <td><img src="Anime/Hatsune_MIku_01.jpg" width="150" alt="Anime 4"></td>
+          </tr>
+        </table>
+      </td>
+      <td align="center">
+        <table>
+          <tr>
+            <td><img src="Fantasy%20%26%20Dark/dragon.jpg" width="150" alt="Fantasy 1"></td>
+            <td><img src="Fantasy%20%26%20Dark/hollow-knight.jpg" width="150" alt="Fantasy 2"></td>
+          </tr>
+          <tr>
+            <td><img src="Fantasy%20%26%20Dark/mage.jpg" width="150" alt="Fantasy 3"></td>
+            <td><img src="Fantasy%20%26%20Dark/samurai.jpg" width="150" alt="Fantasy 4"></td>
+          </tr>
+        </table>
+      </td>
+      <td align="center">
+        <table>
+          <tr>
+            <td><img src="Landscapes%20%26%20Nature/waves.png" width="150" alt="Landscape 1"></td>
+            <td><img src="Landscapes%20%26%20Nature/waterfall.png" width="150" alt="Landscape 2"></td>
+          </tr>
+          <tr>
+            <td><img src="Landscapes%20%26%20Nature/purple-horizon.jpg" width="150" alt="Landscape 3"></td>
+            <td><img src="Landscapes%20%26%20Nature/misty-boat.jpg" width="150" alt="Landscape 4"></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- ==================== CATEGORIES ==================== -->
 
 ## 📂 Categories
 
-- **[Lofi & Cozy](./Lofi%20%26%20Cozy)** - Lofi girls, coffee shops, pixel rooms, cozy vibes
-- **[Anime Scenery](./Anime%20Scenery)** - Beautiful landscapes, Japanese streets, night skies
-- **[Fate & FGO](./Fate%20%26%20FGO)** - Jeanne, Saber, Mash, Jalter and more
-- **[Anime Characters](./Anime%20Characters)** - Miku, Mai, Raiden, Violet, Haibara and more
-- **[Fantasy & Dark](./Fantasy%20%26%20Dark)** - Dragons, knights, mages, dark warriors
-- **[Pixel Art](./Pixel%20Art)** - Pixel cats, pixel cities, retro aesthetic
-- **[Landscapes & Nature](./Landscapes%20%26%20Nature)** - Waves, waterfalls, horizons, skies
-- **[Aesthetic & Retro](./Aesthetic%20%26%20Retro)** - Vintage art, pop art, Eizin Suzuki style
+- **[Anime](./Anime)** - Characters, scenery, lofi, Fate/FGO & everything anime
+- **[Fantasy & Dark](./Fantasy%20%26%20Dark)** - Dragons, knights, mages & dark warriors
+- **[Landscapes & Nature](./Landscapes%20%26%20Nature)** - Waves, waterfalls, horizons & skies
+- **[Aesthetic & Retro](./Aesthetic%20%26%20Retro)** - Vintage art, pixel art & retro illustration
 - **[Misc](./Misc)** - Everything else that's beautiful
 
 <!-- ==================== DOWNLOAD INSTRUCTIONS ==================== -->
 
-## 📥 How to Download
+## 📥 Download
 
-> [!NOTE] 
->This is a living collection - wallpapers may be added or removed as my taste evolves.
+> [!NOTE]
+> This is a dynamic collection - wallpapers may be added/removed as my preferences change.
 
-1. Click any **category folder** above
-2. Click on the wallpaper you want
-3. Click the **download button** (⬇️ top right of the image)
+Simply navigate to your desired category folder and download the wallpapers you like. All images are in high resolution.
 
 All wallpapers are in their **original resolution**.
 
-🗓️ **Last Updated:** `07/06/2026`
+**📅 Wallpapers Last Updated:** `07/06/2026`
 
 ---
 
@@ -58,13 +98,12 @@ All wallpapers are in their **original resolution**.
 > [!NOTE]
 > This is my personal wallpaper collection that I've been curating over time.
 
-Most wallpapers were saved from various corners of the internet - Reddit, Twitter/X, Pinterest, GitHub - without tracking the original source.
-
-**If you recognize your work here:**
+**Important:** Most wallpapers were saved from **various social media platforms** (X, Reddit, GitHub, etc.) without tracking sources. If you recognize your work:
 
 1. 📩 **Contact me** with proof of authorship
 2. ✏️ I'll **add full credit** immediately
 3. 🗑️ Or **request removal** if preferred
+
 > *To every spectacular artist out there: If you see your artwork here without credit, please know it's because I genuinely loved it - not because I'm claiming it as my own. Your work is what makes this collection worth sharing. A heartfelt thank you. 🙏*
 
 <!-- ==================== CREDITS & SOURCES ==================== -->
@@ -72,9 +111,9 @@ Most wallpapers were saved from various corners of the internet - Reddit, Twitte
 ## 💛 Thanks & Sources
 
 ### 🎨 Communities
-- [r/wallpaper](https://www.reddit.com/r/wallpaper/) on Reddit
-- [r/unixporn](https://www.reddit.com/r/unixporn/) on Reddit
-- [r/AnimeWallpaper](https://www.reddit.com/r/AnimeWallpaper/) on Reddit
+- [r/wallpaper](https://www.reddit.com/r/wallpaper/) 
+- [r/unixporn](https://www.reddit.com/r/unixporn/) 
+- [r/AnimeWallpaper](https://www.reddit.com/r/AnimeWallpaper/) 
 
 ### 🖼️ Artist Platforms
 - [Pixiv](https://www.pixiv.net/) 
@@ -82,13 +121,6 @@ Most wallpapers were saved from various corners of the internet - Reddit, Twitte
 - [Twitter/X](https://x.com/) 
 - [Pinterest](https://www.pinterest.com/) 
 
-### 🎮 Notable Sources
-- Fate/Grand Order - Type-Moon / Aniplex
-- Hollow Knight - Team Cherry
-- Hatsune Miku - Crypton Future Media
-
 ---
 
-<div align="center">
-
-*Made with 🩵 for the aesthetic community* &nbsp;
+*Made with 🩵 for the aesthetic community*
