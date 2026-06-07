@@ -3,9 +3,9 @@
 <!-- Upload your banner image to the repo first, then this will show -->
 <!-- <img src="cozycavas-banner.png" width="100%" alt="CozyCanvas Banner"/> -->
 
-<h1>🎨 CozyCanvas</h1>
+<h1> CozyCanvas</h1>
 
-<p><em>A collection of aesthetic wallpapers — Lofi, Anime, Fantasy, Scenery & more.<br>Free for everyone to enjoy ✨</em></p>
+<p><em> 🎨 A collection of aesthetic wallpapers - Lofi, Anime, Fantasy, Scenery & more.<br>Free for everyone to enjoy 🌟 </em></p>
 
 <p>
   <img src="https://img.shields.io/github/stars/Soviet-Nicto/CozyCanvas?style=for-the-badge&color=ffb3c6&labelColor=1a1a2e" alt="Stars"/>
