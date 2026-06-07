@@ -1,13 +1,17 @@
+<!-- ==================== BANNER SECTION ==================== -->
+
 <div align="center">
 
 <!-- Upload your banner image to the repo first, then this will show -->
 <!-- <img src="cozycavas-banner.png" width="100%" alt="CozyCanvas Banner"/> -->
 
+<!-- ==================== HEADER SECTION ==================== -->
+
 <h1> CozyCanvas</h1>
 
 <p><em> 🎨 A collection of aesthetic wallpapers - Lofi, Anime, Fantasy, Scenery & more.<br>Free for everyone to enjoy 🌟 </em></p>
 
----
+<!-- ==================== PREVIEW GALLERY ==================== -->
 
 ## 🌸 Preview Gallery
 
@@ -16,7 +20,7 @@
 | ![Lofi](Lofi%20%26%20Cozy/coffee-shop.png) | ![Kyoto](Anime%20Scenery/Spring_Day_in_Kyoto_-_Pao_Yong.jpg) | ![Dragon](Fantasy%20%26%20Dark/dragon.jpg) |
 | ![Lofi TAO](Lofi%20%26%20Cozy/Lofi_Anime_-_TAO.webp) | ![Silhouette](Anime%20Scenery/Silhouette__sky__planets__view_-_Uomi.jpg) | ![Mage](Fantasy%20%26%20Dark/mage.jpg) |
 
----
+<!-- ==================== CATEGORIES ==================== -->
 
 ## 📂 Categories
 
@@ -30,7 +34,7 @@
 - **[Aesthetic & Retro](./Aesthetic%20%26%20Retro)** - Vintage art, pop art, Eizin Suzuki style
 - **[Misc](./Misc)** - Everything else that's beautiful
 
----
+<!-- ==================== DOWNLOAD INSTRUCTIONS ==================== -->
 
 ## 📥 How to Download
 
@@ -47,6 +51,8 @@ All wallpapers are in their **original resolution**.
 
 ---
 
+<!-- ==================== COLLECTION DISCLAIMER ==================== -->
+
 ## ⚠️ About This Collection
 
 > [!NOTE]
@@ -61,7 +67,7 @@ Most wallpapers were saved from various corners of the internet - Reddit, Twitte
 3. 🗑️ Or **request removal** if preferred
 > *To every spectacular artist out there: If you see your artwork here without credit, please know it's because I genuinely loved it - not because I'm claiming it as my own. Your work is what makes this collection worth sharing. A heartfelt thank you. 🙏*
 
----
+<!-- ==================== CREDITS & SOURCES ==================== -->
 
 ## 💛 Thanks & Sources
 
@@ -85,4 +91,4 @@ Most wallpapers were saved from various corners of the internet - Reddit, Twitte
 
 <div align="center">
 
-Made with 💜 for the aesthetic community &nbsp;
+*Made with 🩵 for the aesthetic community* &nbsp;
