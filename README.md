@@ -7,23 +7,9 @@
 
 <p><em> 🎨 A collection of aesthetic wallpapers - Lofi, Anime, Fantasy, Scenery & more.<br>Free for everyone to enjoy 🌟 </em></p>
 
-<p>
-  <img src="https://img.shields.io/github/stars/Soviet-Nicto/CozyCanvas?style=for-the-badge&color=ffb3c6&labelColor=1a1a2e" alt="Stars"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/forks/Soviet-Nicto/CozyCanvas?style=for-the-badge&color=c9b8ff&labelColor=1a1a2e" alt="Forks"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/wallpapers-50%2B-a8d8ea?style=for-the-badge&labelColor=1a1a2e" alt="Wallpapers"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/license-MIT-f8c8d4?style=for-the-badge&labelColor=1a1a2e" alt="License"/>
-</p>
-
-</div>
-
 ---
 
 ## 🌸 Preview Gallery
-
-> 📌 *Previews will appear once wallpapers are uploaded to each folder.*
 
 | 🎵 Lofi & Cozy | 🌿 Anime Scenery | ⚔️ Fantasy & Dark |
 |:-:|:-:|:-:|
@@ -32,7 +18,7 @@
 
 ---
 
-## 🗂️ Categories
+## 📂 Categories
 
 - **[Lofi & Cozy](./Lofi%20%26%20Cozy)** - Lofi girls, coffee shops, pixel rooms, cozy vibes
 - **[Anime Scenery](./Anime%20Scenery)** - Beautiful landscapes, Japanese streets, night skies
@@ -46,9 +32,10 @@
 
 ---
 
-## 💾 How to Download
+## 📥 How to Download
 
-> **Note:** This is a living collection — wallpapers may be added or removed as my taste evolves.
+> [!NOTE] 
+>This is a living collection - wallpapers may be added or removed as my taste evolves.
 
 1. Click any **category folder** above
 2. Click on the wallpaper you want
@@ -56,23 +43,23 @@
 
 All wallpapers are in their **original resolution**.
 
-🗓️ **Last Updated:** 07/06/2026
+🗓️ **Last Updated:** `07/06/2026`
 
 ---
 
 ## ⚠️ About This Collection
 
+> [!NOTE]
 > This is my personal wallpaper collection that I've been curating over time.
 
-Most wallpapers were saved from various corners of the internet — Reddit, Twitter/X, Pinterest, GitHub — without always tracking the original source.
+Most wallpapers were saved from various corners of the internet - Reddit, Twitter/X, Pinterest, GitHub - without tracking the original source.
 
 **If you recognize your work here:**
 
 1. 📩 **Contact me** with proof of authorship
 2. ✏️ I'll **add full credit** immediately
-3. 🗑️ Or **request removal** - no questions asked
-
-> *To every artist out there: If you see your artwork here without credit, please know it's because I genuinely loved it - not because I'm claiming it as my own. Your work is what makes this collection worth sharing. A heartfelt thank you. 🙏*
+3. 🗑️ Or **request removal** if preferred
+> *To every spectacular artist out there: If you see your artwork here without credit, please know it's because I genuinely loved it - not because I'm claiming it as my own. Your work is what makes this collection worth sharing. A heartfelt thank you. 🙏*
 
 ---
 
