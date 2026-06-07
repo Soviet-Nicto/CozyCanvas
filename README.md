@@ -81,11 +81,9 @@
 ## 📥 Download
 
 > [!NOTE]
-> This is a dynamic collection - wallpapers may be added/removed as my preferences change.
+> This collection keeps growing - I add new wallpapers whenever I stumble upon something beautiful, and occasionally remove ones I've moved on from.
 
-Simply navigate to your desired category folder and download the wallpapers you like. All images are in high resolution.
-
-All wallpapers are in their **original resolution**.
+Browse through the folders above and grab whatever catches your eye. Everything is kept at its original resolution.
 
 **📅 Wallpapers Last Updated:** `07/06/2026`
 
