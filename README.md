@@ -19,7 +19,7 @@
 <table>
   <thead>
     <tr>
-      <th align="center">🍫 Mocha</th>
+      <th align="center">🌸 Catppuccin</th>
       <th align="center">❄️ Nord</th>
       <th align="center">🌑 Dark</th>
     </tr>
@@ -29,12 +29,12 @@
       <td align="center">
         <table>
           <tr>
-            <td><img src="Mocha/coffee-shop.png" width="150" alt="Mocha 1"></td>
-            <td><img src="Mocha/Lofi_Anime_-_TAO.webp" width="150" alt="Mocha 2"></td>
+            <td><img src="Catppuccin/coffee-shop.png" width="150" alt="Catppuccin 1"></td>
+            <td><img src="Catppuccin/Lofi_Anime_-_TAO.webp" width="150" alt="Catppuccin 2"></td>
           </tr>
           <tr>
-            <td><img src="Mocha/Spring_Day_in_Kyoto_-_Pao_Yong.jpg" width="150" alt="Mocha 3"></td>
-            <td><img src="Mocha/anime-outside-girl-car.png" width="150" alt="Mocha 4"></td>
+            <td><img src="Catppuccin/Spring_Day_in_Kyoto_-_Pao_Yong.jpg" width="150" alt="Catppuccin 3"></td>
+            <td><img src="Catppuccin/anime-outside-girl-car.png" width="150" alt="Catppuccin 4"></td>
           </tr>
         </table>
       </td>
@@ -70,7 +70,7 @@
 
 ## 📂 Categories
 
-- **[Mocha](./Mocha)** - Warm, cozy & latte-toned wallpapers
+- **[Catppuccin](./Catppuccin)** - Warm, cozy & latte-toned wallpapers
 - **[Nord](./Nord)** - Cool, icy & muted blue tones
 - **[Dark](./Dark)** - Moody, dramatic & dark aesthetic
 - **[Misc](./Misc)** - Everything else that's beautiful
