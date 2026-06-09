@@ -19,9 +19,9 @@
 <table>
   <thead>
     <tr>
-      <th align="center">🌸 Catppuccin</th>
+      <th align="center">🎨 Catppuccin</th>
       <th align="center">❄️ Nord</th>
-      <th align="center">🌑 Dark</th>
+      <th align="center">🌙 One Dark</th>
     </tr>
   </thead>
   <tbody>
@@ -53,12 +53,12 @@
       <td align="center">
         <table>
           <tr>
-            <td><img src="Dark/dragon.jpg" width="150" alt="Dark 1"></td>
-            <td><img src="Dark/hollow-knight.jpg" width="150" alt="Dark 2"></td>
+            <td><img src="One%20Dark/dragon.jpg" width="150" alt="One Dark 1"></td>
+            <td><img src="One%20Dark/hollow-knight.jpg" width="150" alt="One Dark 2"></td>
           </tr>
           <tr>
-            <td><img src="Dark/Raiden_Shogun.png" width="150" alt="Dark 3"></td>
-            <td><img src="Dark/samurai.jpg" width="150" alt="Dark 4"></td>
+            <td><img src="One%20Dark/Raiden_Shogun.png" width="150" alt="One Dark 3"></td>
+            <td><img src="One%20Dark/samurai.jpg" width="150" alt="One Dark 4"></td>
           </tr>
         </table>
       </td>
@@ -72,7 +72,7 @@
 
 - **[Catppuccin](./Catppuccin)** - Warm, cozy & latte-toned wallpapers
 - **[Nord](./Nord)** - Cool, icy & muted blue tones
-- **[Dark](./Dark)** - Moody, dramatic & dark aesthetic
+- **[One Dark](./One%20Dark)** - Moody, dramatic & dark aesthetic
 - **[Misc](./Misc)** - Everything else that's beautiful
 - **[Mobile](./Mobile)** - Portrait wallpapers for Android & IOS
 
