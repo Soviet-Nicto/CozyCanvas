@@ -19,9 +19,9 @@
 <table>
   <thead>
     <tr>
-      <th align="center">🎌 Anime</th>
-      <th align="center">🐉 Fantasy & Dark</th>
-      <th align="center">🌊 Landscapes</th>
+      <th align="center">🍫 Mocha</th>
+      <th align="center">❄️ Nord</th>
+      <th align="center">🌑 Dark</th>
     </tr>
   </thead>
   <tbody>
@@ -29,36 +29,36 @@
       <td align="center">
         <table>
           <tr>
-            <td><img src="Anime/coffee-shop.png" width="150" alt="Anime 1"></td>
-            <td><img src="Anime/Lofi_Anime_-_TAO.webp" width="150" alt="Anime 2"></td>
+            <td><img src="Mocha/coffee-shop.png" width="150" alt="Mocha 1"></td>
+            <td><img src="Mocha/Lofi_Anime_-_TAO.webp" width="150" alt="Mocha 2"></td>
           </tr>
           <tr>
-            <td><img src="Anime/Spring_Day_in_Kyoto_-_Pao_Yong.jpg" width="150" alt="Anime 3"></td>
-            <td><img src="Anime/Hatsune_MIku_01.jpg" width="150" alt="Anime 4"></td>
-          </tr>
-        </table>
-      </td>
-      <td align="center">
-        <table>
-          <tr>
-            <td><img src="Fantasy%20%26%20Dark/dragon.jpg" width="150" alt="Fantasy 1"></td>
-            <td><img src="Fantasy%20%26%20Dark/hollow-knight.jpg" width="150" alt="Fantasy 2"></td>
-          </tr>
-          <tr>
-            <td><img src="Fantasy%20%26%20Dark/mage.jpg" width="150" alt="Fantasy 3"></td>
-            <td><img src="Fantasy%20%26%20Dark/samurai.jpg" width="150" alt="Fantasy 4"></td>
+            <td><img src="Mocha/Spring_Day_in_Kyoto_-_Pao_Yong.jpg" width="150" alt="Mocha 3"></td>
+            <td><img src="Mocha/anime-outside-girl-car.png" width="150" alt="Mocha 4"></td>
           </tr>
         </table>
       </td>
       <td align="center">
         <table>
           <tr>
-            <td><img src="Landscapes%20%26%20Nature/waves.png" width="150" alt="Landscape 1"></td>
-            <td><img src="Landscapes%20%26%20Nature/waterfall.png" width="150" alt="Landscape 2"></td>
+            <td><img src="Nord/waves.png" width="150" alt="Nord 1"></td>
+            <td><img src="Nord/waterfall.png" width="150" alt="Nord 2"></td>
           </tr>
           <tr>
-            <td><img src="Landscapes%20%26%20Nature/purple-horizon.jpg" width="150" alt="Landscape 3"></td>
-            <td><img src="Landscapes%20%26%20Nature/misty-boat.jpg" width="150" alt="Landscape 4"></td>
+            <td><img src="Nord/Violet_Evergarden_-_Fanart.png" width="150" alt="Nord 3"></td>
+            <td><img src="Nord/koishi.jpg" width="150" alt="Nord 4"></td>
+          </tr>
+        </table>
+      </td>
+      <td align="center">
+        <table>
+          <tr>
+            <td><img src="Dark/dragon.jpg" width="150" alt="Dark 1"></td>
+            <td><img src="Dark/hollow-knight.jpg" width="150" alt="Dark 2"></td>
+          </tr>
+          <tr>
+            <td><img src="Dark/Raiden_Shogun.png" width="150" alt="Dark 3"></td>
+            <td><img src="Dark/samurai.jpg" width="150" alt="Dark 4"></td>
           </tr>
         </table>
       </td>
@@ -70,11 +70,11 @@
 
 ## 📂 Categories
 
-- **[Anime](./Anime)** - Characters, scenery, lofi, Fate/FGO & everything anime
-- **[Fantasy & Dark](./Fantasy%20%26%20Dark)** - Dragons, knights, mages & dark warriors
-- **[Landscapes & Nature](./Landscapes%20%26%20Nature)** - Waves, waterfalls, horizons & skies
-- **[Aesthetic & Retro](./Aesthetic%20%26%20Retro)** - Vintage art, pixel art & retro illustration
+- **[Mocha](./Mocha)** - Warm, cozy & latte-toned wallpapers
+- **[Nord](./Nord)** - Cool, icy & muted blue tones
+- **[Dark](./Dark)** - Moody, dramatic & dark aesthetic
 - **[Misc](./Misc)** - Everything else that's beautiful
+- **[Mobile](./Mobile)** - Portrait wallpapers for Android & IOS
 
 <!-- ==================== DOWNLOAD INSTRUCTIONS ==================== -->
 
@@ -85,7 +85,7 @@
 
 Browse through the folders above and grab whatever catches your eye. Everything is kept at its original resolution.
 
-**📅 Wallpapers Last Updated:** `07/06/2026`
+**📅 Wallpapers Last Updated:** `10/06/2026`
 
 ---
 
@@ -108,16 +108,20 @@ Browse through the folders above and grab whatever catches your eye. Everything 
 
 ## 💛 Thanks & Sources
 
-### 🎨 Communities
-- [r/wallpaper](https://www.reddit.com/r/wallpaper/) 
-- [r/unixporn](https://www.reddit.com/r/unixporn/) 
-- [r/AnimeWallpaper](https://www.reddit.com/r/AnimeWallpaper/) 
+### 🎨 Theme Communities
+- [Catppuccin Community](https://catppuccin.com)
+- [Nord Theme](https://www.nordtheme.com)
+- [One Dark Theme](https://github.com/one-dark)
 
-### 🖼️ Artist Platforms
-- [Pixiv](https://www.pixiv.net/) 
-- [ArtStation](https://www.artstation.com/) 
-- [Twitter/X](https://x.com/) 
-- [Pinterest](https://www.pinterest.com/) 
+### 🖼️ Wallpaper Sources
+- [Catppuccin wallpaper repo](https://github.com/orangci/walls-catppuccin-mocha)
+- [Nord wallpaper repo](https://github.com/linuxdotexe/nordic-wallpapers)
+- [Onedark wallpaper repo](https://github.com/Narmis-E/onedark-wallpapers)
+- [r/unixporn](https://www.reddit.com/r/unixporn) 
+- [r/wallpaper](https://www.reddit.com/r/wallpaper) 
+- [r/AnimeWallpaper](https://www.reddit.com/r/AnimeWallpaper)
+- [Wallpaper Engine](https://www.reddit.com/r/WallpaperEngine/) 
+- Various artists on Twitter/X and Pinterest
 
 ---
 
